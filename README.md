@@ -6,10 +6,12 @@ O usuário navega por um menu principal, podendo escolher entre diferentes opera
 📋 Funcionalidades Principais
 🧑‍💻 1) Cadastro e Login
 Permite o cadastro de um login e senha.
+
 -A senha é considerada inválida se:
--Tiver 6 caracteres ou menos;
--Estiver vazia;
+-Tiver 6 caracteres ou menos.
+-Estiver vazia.
 -For exatamente “123456”.
+
 -Após o cadastro, o usuário realiza o login:
 -Caso o login e a senha coincidam com o cadastro, o acesso é permitido.
 -Caso contrário, o acesso é negado.
